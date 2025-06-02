@@ -1,3 +1,5 @@
+Student Name: Satya Bhaskar Chaliki Student id: 700769823
+
 **Question 1: Tensor Manipulations & Reshaping**
 
 Objective:
